@@ -1,0 +1,14 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "Search covid cases by tweets",
+  "main": "app.js",
+  "author": "henrique.schivo",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
